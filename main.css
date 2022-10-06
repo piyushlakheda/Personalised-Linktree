@@ -1,7 +1,7 @@
 #head {
     color: rgb(61, 61, 61);
     margin-top: 8%;
-    margin-left: 40%;
+    text-align: center;
 }
 
 body {
@@ -27,12 +27,12 @@ img {
 } */
 
 #Content .links {
-    margin-left: 15%;
-    margin-top: 5%;
+    /* margin-left: 8%; */
+    margin-top: 2%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
     height: fit-content;
-    width: 16cm;
+    width: 100%;
 }
 
 .social {
